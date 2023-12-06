@@ -1,0 +1,100 @@
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.csproj.AssemblyReference.cache
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.Form1.resources
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.csproj.GenerateResource.cache
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.AssemblyInfoInputs.cache
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.AssemblyInfo.cs
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.csproj.CoreCompileInputs.cache
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\HesapKontrolSistem.exe
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\HesapKontrolSistem.deps.json
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\HesapKontrolSistem.runtimeconfig.json
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\HesapKontrolSistem.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\HesapKontrolSistem.pdb
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Azure.Data.Tables.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\SQLConnection.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.csproj.CopyComplete
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\refint\HesapKontrolSistem.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.pdb
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.genruntimeconfig.cache
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\ref\HesapKontrolSistem.dll
+C:\Users\Asya Hanım\Desktop\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.Properties.Resources.resources
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\HesapKontrolSistem.exe
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\HesapKontrolSistem.deps.json
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\HesapKontrolSistem.runtimeconfig.json
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\HesapKontrolSistem.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\HesapKontrolSistem.pdb
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Azure.Data.Tables.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\SQLConnection.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\projehesap\HesapKontrolSistem\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.csproj.AssemblyReference.cache
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.Form1.resources
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.Properties.Resources.resources
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.csproj.GenerateResource.cache
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.GeneratedMSBuildEditorConfig.editorconfig
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.AssemblyInfoInputs.cache
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.AssemblyInfo.cs
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.csproj.CoreCompileInputs.cache
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.csproj.CopyComplete
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.dll
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\refint\HesapKontrolSistem.dll
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.pdb
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\HesapKontrolSistem.genruntimeconfig.cache
+D:\projehesap\HesapKontrolSistem\obj\Debug\net8.0-windows\ref\HesapKontrolSistem.dll
